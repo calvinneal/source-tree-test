@@ -1,2 +1,10 @@
-text
-further text
+Tools I'm using:
+----------------
+Android Studio
+	Make an app
+GitHub
+	Host the app
+SourceTree
+	Manage the app
+PuTTY
+	Keep it secure
